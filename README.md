@@ -1,4 +1,3 @@
-````markdown
 # AMProdigy
 
 AMProdigy 是一个多肽理化性质计算和多肽预测功能的系统，旨在为抗菌肽的研究和应用提供全方位的支持。当前版本提供了多肽的理化性质计算，还将支持多种高级功能，如多肽性质预测、特征推荐、典型多肽筛选等。
@@ -145,11 +144,11 @@ AMProdigy 是一个多肽理化性质计算和多肽预测功能的系统，旨�
 ### 安装步骤
 
 1. 克隆本仓库：
+
    ```bash
    git clone https://github.com/your-username/AMProdigy.git
    cd AMProdigy
    ```
-````
 
 2. 安装依赖：
 
@@ -185,9 +184,5 @@ AMProdigy 是一个多肽理化性质计算和多肽预测功能的系统，旨�
 
 ## 联系
 
-- Email: your-email@example.com
-- 项目主页: [https://github.com/your-username/AMProdigy](https://github.com/your-username/AMProdigy)
-
-```
-
-```
+- Email: spencerxu79@gmail.com
+- 项目主页: [https://github.com/SpencerRaw/AMProdigy](https://github.com/SpencerRaw/AMProdigy)
